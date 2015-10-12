@@ -12,7 +12,7 @@ source_urls = ['http://cole-trapnell-lab.github.io/cufflinks/assets/downloads/']
 
 dependencies = [
     ('Boost', '1.55.0'),
-    ('SAMtools', '0.1.19'),
+    ('SAMtools', '1.2'),
     ('Eigen', '3.2.6'),
     ('zlib', '1.2.8'),
 ]
